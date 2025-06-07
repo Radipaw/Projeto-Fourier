@@ -10,7 +10,7 @@
 
 ## Como Executar
 - Clone o Repositório:
-> git clone https://github.com/Radicrow/Projeto-Fourier.git
+> git clone https://github.com/Radipaw/Projeto-Fourier.git
 >
 > cd Projeto Fourier
 - Crie e ative o Venv
