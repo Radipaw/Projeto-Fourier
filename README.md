@@ -14,7 +14,7 @@
 >
 > cd Projeto-Fourier
 - Crie e ative o Venv
-> python3 -m venv .venv
+> python -m venv .venv
 > 
 > .venv\Scripts\activate
 - Instale as dependêcias listadas no arquivo "requirements.txt"
