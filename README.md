@@ -11,14 +11,12 @@
 ## Como Executar
 - Clone o Repositório:
 > git clone https://github.com/Radipaw/Projeto-Fourier.git
->
-> cd Projeto-Fourier
-- Crie e ative o Venv
-> python -m venv .venv
-> 
-> .venv\Scripts\activate
-- Instale as dependêcias listadas no arquivo "requirements.txt"
-> pip install -r requirements.txt
+
+- Abra no Visual Studio Code
+- Crie e ative o Venv apertando Crtl + Shift + P e em seguida selecionando "Python: Create Environment"
+- Venv
+- Selecione sua versão desejada do Python
+- Instale as dependêcias listadas no arquivo "requirements.txt" e clique Ok
 
 - Rode o código apertando "Run All" no Jupyter notebook
 
