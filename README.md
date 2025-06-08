@@ -22,3 +22,6 @@
 
 ## Material de referência utilizado
 #### https://realpython.com/python-scipy-fft/#filtering-the-signal
+#### https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem
+#### https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft
+#### https://www.nti-audio.com/en/news/lets-clear-up-some-things-about-fft-part-2
